@@ -1,0 +1,1 @@
+# Number of Proper Fractions with Denominator d
